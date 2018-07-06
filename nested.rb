@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-:grace_hopper[1,1]
+:grace_hopper.keys
 
 end
 
