@@ -61,6 +61,7 @@ def dennis_ritchies_language
      }
 		placeholder = ""
     placeholder.to_s << programmer_hash[:dennis_ritchie][:languages]
+		placeholder
 end
 
 def adding_matz
