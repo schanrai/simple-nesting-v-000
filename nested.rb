@@ -60,10 +60,9 @@ def dennis_ritchies_language
 
         }
      }
-		placeholder = ""
-		binding.pry
-    placeholder.to_s << programmer_hash[:dennis_ritchie][:languages]
-		placeholder
+		#placeholder = ""
+ 		programmer_hash[:dennis_ritchie][:languages]
+		#placeholder
 end
 
 
