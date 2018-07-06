@@ -94,7 +94,6 @@ programmer_hash = {
 		     	:languages => ["LISP", "C"]
 		  }
 		}
-
 end
 
 def changing_alan
