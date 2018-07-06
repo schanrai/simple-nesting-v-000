@@ -61,7 +61,7 @@ def dennis_ritchies_language
         }
      }
 		#placeholder = ""
- 		programmer_hash[:dennis_ritchie][:languages.to_s]
+ 		programmer_hash[:dennis_ritchie][:languages].to_s
 		#placeholder
 end
 
