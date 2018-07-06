@@ -63,9 +63,10 @@ def dennis_ritchies_language
 		placeholder = ""
     placeholder.to_s << programmer_hash[:dennis_ritchie][:languages]
 		placeholder
-
+binding.pry		
 end
-binding.pry
+
+
 def adding_matz
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
