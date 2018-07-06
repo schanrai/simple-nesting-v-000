@@ -59,7 +59,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-		placeholder.to.s << programmer_hash[:dennis_ritchie][:languages]
+		placeholder << programmer_hash[:dennis_ritchie][:languages]
+		placeholder.to.s
 end
 
 def adding_matz
