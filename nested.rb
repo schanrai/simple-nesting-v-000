@@ -59,7 +59,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-		 placeholder = ""
+		placeholder = ""
 		placeholder << programmer_hash[:dennis_ritchie][:languages]
 		placeholder.to.s
 end
